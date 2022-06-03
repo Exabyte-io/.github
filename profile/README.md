@@ -23,16 +23,23 @@ Is to boost the productivity of R&D by:
 
 # Our customers
 
-Dozens of enterprise customers in the electronics, energy, and manufacturing sectors, including Merck KGaA Darmstadt Germany, the Air Force Research Laboratory, and the Tokyo University of Science are among our platform customers today, contributing to the growing community of over 2,500 (Mar 2022) scientists worldwide.
+Dozens of enterprises in the electronics, energy, and manufacturing sectors, including:
+
+- Merck KGaA Darmstadt Germany, 
+- Air Force Research Laboratory, and 
+- Tokyo University of Science 
+
+are among our platform customers today, contributing to the growing community of over 2,500 (Q2 2022) scientists worldwide.
 
 # More
 
 Find out more at:
 
-- Video of the founder/CEO, [Timur Bazhirov](https://github.com/timurbazhirov), presenting the company: youtu.be/n7JGfebTmIQ
+- Video of the founder/CEO, [Timur Bazhirov](https://github.com/timurbazhirov), presenting the company at the Thiel Foundation Unboxing: https://youtu.be/n7JGfebTmIQ
 - The Wall Street Journal about our Seed Funding: https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001
-- Case studies with customers: mat3ra.com/case-studies
-- Manuscript explaining the concept and example applications: arxiv.org/abs/1902.10838
+- Case studies with customers: https://mat3ra.com/case-studies
+- Manuscript explaining the concept and example applications: https://arxiv.org/abs/1902.10838
+- Our blog: https://mat3ra.com/blog/
 
 # Join Us
 
