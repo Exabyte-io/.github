@@ -1,4 +1,3 @@
-# Materials R&D Cloud
 [Mat3ra.com](https://mat3ra.com) (pronounced Mat-era, prev. known as Exabyte.io) is a digital platform accelerating the discovery of new advanced materials and chemicals.
 
 ![The Mat3ra Platform](https://mat3ra.com/blog/content/images/size/w960/2022/03/Materials-R-D-Cloud_no-title_With-background.gif)
