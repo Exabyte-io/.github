@@ -42,5 +42,5 @@ Find out more at:
 
 # Join Us
 
-- To find out about career opportunities: https://angel.co/company/mat3ra
+- To find out about career opportunities: https://mat3ra.workable.com/
 - To register to try our platform (and stay updated): https://platform.mat3ra.com/register
