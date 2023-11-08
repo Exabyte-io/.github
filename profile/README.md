@@ -28,7 +28,7 @@ Dozens of enterprises in the electronics, energy, and manufacturing sectors, inc
 - Air Force Research Laboratory, and 
 - Tokyo University of Science 
 
-are among our platform customers today, contributing to the growing community of over 2,500 (Q2 2022) scientists worldwide.
+are among our platform customers today, contributing to the growing community of over 7,500 (Q3 2023) scientists worldwide.
 
 # More
 
@@ -43,4 +43,5 @@ Find out more at:
 # Join Us
 
 - To find out about career opportunities: https://mat3ra.workable.com/
+- To find out more about our hiring process for Engineering & R&D positions, visit https://github.com/Exabyte-io/rewotes
 - To register to try our platform (and stay updated): https://platform.mat3ra.com/register
