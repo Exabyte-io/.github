@@ -1,6 +1,4 @@
-# Exabyte.io is now Mat3ra
-
-**Exabyte.io** has been rebranded to **[Mat3ra](https://mat3ra.com)**.
+# Exabyte.io is now Mat3ra.com
 
 This GitHub organization is kept for maintenance purposes only. All repositories have moved to:
 
